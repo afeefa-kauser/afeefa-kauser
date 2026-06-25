@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi 👋 I'm Afeefa Kauser
 
-<!--
-**afeefa-kauser/afeefa-kauser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring SQL & Data Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about learning databases and solving real-world problems using SQL. Currently building projects and strengthening my database and analytical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+📚 Learning SQL and Database Management Systems
+
+🌱 Currently exploring:
+- SQL
+- MySQL
+- Data Analysis
+- Git & GitHub
+
+🎯 Goals:
+- Build practical SQL projects
+- Improve database design skills
+- Solve SQL problems consistently
+- Build a strong portfolio
+
+---
+
+## 🛠 Skills
+
+- SQL
+- MySQL
+- Python (Basics)
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+### Student Database Management System
+- Database schema design
+- CRUD operations
+- Joins and aggregate functions
+
+### Sales Data Analysis
+- Sales trend analysis using SQL
+- Reports using GROUP BY and filtering
+
+### Employee Database System
+- Multi-table database relationships
+- SQL queries and analysis
+
+---
+
+## 📈 Learning Progress
+
+✔ SQL Basics  
+✔ Filtering & Sorting  
+⬜ Joins  
+⬜ Subqueries  
+⬜ Window Functions  
+⬜ Advanced Projects  
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/afeefakauser407/ 
+Email: afeefakauser407@gmail.com
+
+---
+
+⭐ Building skills and projects one step at a time
