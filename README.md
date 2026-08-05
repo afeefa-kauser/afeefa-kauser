@@ -13,6 +13,7 @@ I am passionate about learning databases and solving real-world problems using S
 🌱 Currently exploring:
 - SQL
 - MySQL
+- Advance Excel
 - Data Analysis
 - Git & GitHub
 
@@ -29,6 +30,8 @@ I am passionate about learning databases and solving real-world problems using S
 - SQL
 - MySQL
 - Python (Basics)
+- Excel
+- Power BI
 - Git
 - GitHub
 
