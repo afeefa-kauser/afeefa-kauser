@@ -1,75 +1,49 @@
-# Hi 👋 I'm Afeefa Kauser
 
-### Aspiring SQL & Data Enthusiast
+# Hi, I'm Afeefa Kauser 
 
-I am passionate about learning databases and solving real-world problems using SQL. Currently building projects and strengthening my database and analytical skills.
+## Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
----
+I am an aspiring Data Analyst with a strong interest in transforming raw data into meaningful insights that support data-driven decision-making. I am currently developing my analytical and technical skills through hands-on projects involving data cleaning, analysis, visualization, and reporting.
 
-## 🚀 About Me
+## Technical Skills
 
-📚 Learning SQL and Database Management Systems
+* **Data Analysis:** Excel, SQL, Python
+* **Data Visualization:** Power BI, Tableau
+* **Python Libraries:** Pandas, NumPy, Matplotlib
+* **Database Management:** MySQL
+* **Core Competencies:** Data Cleaning, Data Transformation, Exploratory Data Analysis (EDA), Data Visualization, Dashboard Development, and Reporting
 
-🌱 Currently exploring:
-- SQL
-- MySQL
-- Advance Excel
-- Data Analysis
-- Git & GitHub
-
-🎯 Goals:
-- Build practical SQL projects
-- Improve database design skills
-- Solve SQL problems consistently
-- Build a strong portfolio
-
----
-
-## 🛠 Skills
-
-- SQL
-- MySQL
-- Python (Basics)
-- Excel
-- Power BI
-- Git
-- GitHub
-
----
-
-## 📂 Featured Projects
-
-### Student Database Management System
-- Database schema design
-- CRUD operations
-- Joins and aggregate functions
+## Featured Projects
 
 ### Sales Data Analysis
-- Sales trend analysis using SQL
-- Reports using GROUP BY and filtering
 
-### Employee Database System
-- Multi-table database relationships
-- SQL queries and analysis
+Analyzed sales data to identify trends, revenue patterns, and top-performing products. The project focused on generating actionable insights to support business decision-making.
 
----
+### Customer Data Analysis
 
-## 📈 Learning Progress
+Performed data cleaning and exploratory data analysis to understand customer behavior, identify patterns, and uncover meaningful insights.
 
-✔ SQL Basics  
-✔ Filtering & Sorting  
-⬜ Joins  
-⬜ Subqueries  
-⬜ Window Functions  
-⬜ Advanced Projects  
+### Interactive Dashboard Development
 
----
+Designed and developed interactive dashboards to visualize key performance indicators (KPIs) and present complex data in a clear and accessible format.
 
-## 🌐 Connect With Me
+## Currently Learning
 
-LinkedIn: https://www.linkedin.com/in/afeefakauser407/ 
-Email: afeefakauser407@gmail.com
+* Advanced SQL for Data Analysis
+* Python for Data Analytics
+* Power BI and Advanced Data Visualization
+* Statistics and Analytical Techniques
 
----
+## Career Objective
 
-⭐ Building skills and projects one step at a time
+My goal is to build a career as a Data Analyst, where I can apply analytical thinking, technical skills, and data visualization techniques to solve real-world business problems and support effective decision-making.
+
+## Connect With Me
+
+Feel free to explore my repositories and projects.
+
+* **LinkedIn:** https://www.linkedin.com/in/afeefakauser407
+* **Email:** afeefakauser407@gmail.com
+
+Thank you for visiting my profile.
+
