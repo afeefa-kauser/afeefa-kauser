@@ -1,49 +1,48 @@
+# Hi, I'm Afeefa Kauser! 👋
+**Data Analyst | Business Analyst** 
 
-# Hi, I'm Afeefa Kauser 
+I am a Computer Engineering graduate passionate about transforming raw operational datasets into strategic business insights. I specialize in building end-to-end data pipelines, writing optimized database queries, and designing interactive dashboards that drive data-driven decision-making.
 
-## Aspiring Data Analyst | Excel | SQL | Python | Power BI
+---
 
-I am an aspiring Data Analyst with a strong interest in transforming raw data into meaningful insights that support data-driven decision-making. I am currently developing my analytical and technical skills through hands-on projects involving data cleaning, analysis, visualization, and reporting.
+### 🛠️ Technical Toolkit
 
-## Technical Skills
+* **Languages & Databases:** SQL (MySQL, PostgreSQL), Python (Pandas, NumPy, Matplotlib)
+* **Business Intelligence:** Power BI (DAX, Power Query, Star Schema modeling), Tableau
+* **Advanced Excel:** XLOOKUP, Index/Match, Pivot Tables, Interactive Dashboards, Slicers
+* **Core Competencies:** Data Cleaning & ETL, Exploratory Data Analysis (EDA), KPI Tracking, Relational Database Design
 
-* **Data Analysis:** Excel, SQL, Python
-* **Data Visualization:** Power BI, Tableau
-* **Python Libraries:** Pandas, NumPy, Matplotlib
-* **Database Management:** MySQL
-* **Core Competencies:** Data Cleaning, Data Transformation, Exploratory Data Analysis (EDA), Data Visualization, Dashboard Development, and Reporting
+---
 
-## Featured Projects
+### 🚀 Featured Projects
 
-### Sales Data Analysis
+#### 📊 [Blinkit Sales Analysis](https://github.com) | Power BI & DAX
+* **Data Modeling:** Modeled quick-commerce operational datasets to analyze **$1.20M in total sales** across 8.523K unique items.
+* **Advanced Analytics:** Engineered custom DAX measures and built visuals tracking fat content splits, item types, and establishment timelines.
+* **Business Insight:** Uncovered that Tier 3 locations represented the highest revenue channel at **$472.13K**, outperforming Tier 1 and Tier 2 markets.
 
-Analyzed sales data to identify trends, revenue patterns, and top-performing products. The project focused on generating actionable insights to support business decision-making.
+#### 🛢️ [Northwind Supply Chain Sales Analysis](https://github.com) | MySQL
+* **Advanced Querying:** Queried a complex relational database with 8+ interconnected tables to evaluate supply chain efficiency and purchasing behavior.
+* **Optimization:** Wrote optimized SQL queries using aggregate functions, JOINs, CTEs, and window functions to calculate rolling revenue.
+* **Business Insight:** Identified the top 5 lagging suppliers causing shipping delays, providing actionable insights for stock optimization.
 
-### Customer Data Analysis
+#### 📈 [Product Sales Regional Performance](https://github.com) | Advanced Excel
+* **End-to-End Development:** Developed a dynamic dashboard tracking **₹43.79L total sales**, ₹2,919 average order value, and 1,500 total orders.
+* **Interactivity:** Constructed fluid filter systems using slicers for region, product, customer type, and promotion types.
+* **Business Insight:** Visualized chronological monthly sales trends and isolated top performance across regional territories and individual sales reps.
 
-Performed data cleaning and exploratory data analysis to understand customer behavior, identify patterns, and uncover meaningful insights.
+---
 
-### Interactive Dashboard Development
+### 📚 Continuous Learning & Certifications
+* **Data Analytics Certification** | ExcelR in collaboration with **IIT Jammu** (*In Progress*)
+* **SQL Master Class Certification** | Udemy 
+* **Python for Data Science** | NPTEL 
 
-Designed and developed interactive dashboards to visualize key performance indicators (KPIs) and present complex data in a clear and accessible format.
+---
 
-## Currently Learning
+### 🌐 Connect With Me
 
-* Advanced SQL for Data Analysis
-* Python for Data Analytics
-* Power BI and Advanced Data Visualization
-* Statistics and Analytical Techniques
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/afeefakauser407)
+[![Email](https://shields.io)](mailto:afeefakauser407@gmail.com)
 
-## Career Objective
-
-My goal is to build a career as a Data Analyst, where I can apply analytical thinking, technical skills, and data visualization techniques to solve real-world business problems and support effective decision-making.
-
-## Connect With Me
-
-Feel free to explore my repositories and projects.
-
-* **LinkedIn:** https://www.linkedin.com/in/afeefakauser407
-* **Email:** afeefakauser407@gmail.com
-
-Thank you for visiting my profile.
-
+*Thank you for visiting my profile! Feel free to explore my repositories, check out my code, or reach out for collaborations.*
